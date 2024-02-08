@@ -122,7 +122,9 @@ class Profiles extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      leading: const CircleAvatar(),
+      leading: const CircleAvatar(
+        child: Icon(Icons.group),
+      ),
       title: Text(
         name,
         style: const TextStyle(fontWeight: FontWeight.bold),
