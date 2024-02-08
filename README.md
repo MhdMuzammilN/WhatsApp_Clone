@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
+Not a complete project Learning Phase as a beginner
 
 ## Getting Started
 
